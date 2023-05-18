@@ -1,4 +1,4 @@
-## Metabarcoding of Human Guts for Fecal Microbiota Transplants
+# Metabarcoding of Human Guts for Fecal Microbiota Transplants
 ## Authors
 Jodi Stetser
 
@@ -7,7 +7,7 @@ Sarah Holmes
 Marcela Klofac
 
 
-## what we are doing our project on
+## What Our Project is On
 /tmp/gen711_project_data/FMT
 
 ## Background
